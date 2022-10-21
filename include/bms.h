@@ -1,0 +1,10 @@
+//
+// Created by Thomas Meunier on 21/10/2022.
+//
+
+#ifndef RESEAULUTION_ARDUINO_NACELLE_MEGA_BMS_H
+#define RESEAULUTION_ARDUINO_NACELLE_MEGA_BMS_H
+
+void sendBms();
+
+#endif //RESEAULUTION_ARDUINO_NACELLE_MEGA_BMS_H

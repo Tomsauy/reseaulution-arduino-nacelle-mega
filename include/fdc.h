@@ -1,0 +1,10 @@
+//
+// Created by Thomas Meunier on 21/10/2022.
+//
+
+#ifndef RESEAULUTION_ARDUINO_NACELLE_MEGA_FDC_H
+#define RESEAULUTION_ARDUINO_NACELLE_MEGA_FDC_H
+
+void streamFdc();
+
+#endif //RESEAULUTION_ARDUINO_NACELLE_MEGA_FDC_H
